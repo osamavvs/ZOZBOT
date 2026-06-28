@@ -1,4 +1,4 @@
 pyrogram
-pytgcalls
+tgcrypto
+pytgcalls>=0.7.0
 yt-dlp
-ffmpeg-python
